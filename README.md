@@ -93,6 +93,21 @@ A 5-page report connected directly to MySQL:
 
 Built with DAX time-intelligence measures, a dedicated date table, drill-down navigation, conditional formatting, and a page navigator for consistent cross-page navigation.
 
+**Executive Summary**
+![Executive Summary](./Screenshot%202026-07-30%20154033.png)
+
+**Trend Analysis**
+![Trend Analysis](./Screenshot%202026-07-30%20154054.png)
+
+**Commodity Comparison**
+![Commodity Comparison](./Screenshot%202026-07-30%20154116.png)
+
+**Inflation Alerts**
+![Inflation Alerts](./Screenshot%202026-07-30%20154132.png)
+
+**ETL Monitoring**
+![ETL Monitoring](./Screenshot%202026-07-30%20154150.png)
+
 ## 09. Business Insights
 
 - Housing, water, electricity, gas and other fuels showed the sharpest YoY spikes during 2022, consistent with Ireland's real-world energy cost crisis that year
